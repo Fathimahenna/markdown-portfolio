@@ -1,21 +1,8 @@
----
-layout: default
----
+😄😄😄
 
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+✨ 
+  1.item 1
+  2.item 2
+  3.item 3
+    1.item 3a
+    2.item 3b
